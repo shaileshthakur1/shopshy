@@ -3,9 +3,16 @@
   height: auto;
   min-height: 100vh;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  padding: 0 20px; /* Add padding for better spacing on smaller screens */
 }
 
 body {
   padding: 0;
   margin: 0;
+}
+
+@media (max-width: 768px) {
+  .App {
+    padding: 0 10px;
+  }
 }
