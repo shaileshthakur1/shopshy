@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+# Basic Ecommerce Site
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# demo:
+SHOP
+![demo ss](https://github.com/user-attachments/assets/38e70340-6364-4579-829e-21c2e546b512)
+CART 
+![demo cart](https://github.com/user-attachments/assets/a00c2233-7eb4-4b05-a2c9-9405c7225a9b)
+
 
 ## Available Scripts
 
