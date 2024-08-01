@@ -18,3 +18,5 @@ export const Shop = () => {
     </div>
   );
 };
+
+// product enhancement is needed 
