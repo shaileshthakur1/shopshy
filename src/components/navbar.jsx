@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
-import { ShoppingCart } from "@phosphor-icons/react";
+import { ShoppingCart, ShoppingBag, UserCircle } from "@phosphor-icons/react";
 import "./navbar.css";
 
 export const Navbar = () => {
@@ -19,8 +19,8 @@ export const Navbar = () => {
       <div className={`links ${menuOpen ? 'active' : ''}`}>
         <Link to="/" onClick={() => setMenuOpen(false)}> Shop </Link>
         <Link to="/contact" onClick={() => setMenuOpen(false)}> Contact </Link>
-        <Link to="/cart" onClick={() => setMenuOpen(false)}>
-          <ShoppingCart size={32} />
+        <Link to="/cart" onClick={() => setMenuOpen(false)}> Cart
+          <ShoppingCart size={13} />
         </Link>
       </div>
     </div>
