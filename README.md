@@ -3,8 +3,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # demo:
-SHOP
-![demo ss](https://github.com/user-attachments/assets/38e70340-6364-4579-829e-21c2e546b512)
+Landing Page:
+
+![image](https://github.com/user-attachments/assets/4e9f0db9-fb23-47ec-b7c3-9a83607f08da)
+
+Collections:
+
+![image](https://github.com/user-attachments/assets/ab82c979-f777-4ccb-ad7c-ae67d08415ad)
+
 CART 
 ![demo cart](https://github.com/user-attachments/assets/a00c2233-7eb4-4b05-a2c9-9405c7225a9b)
 
