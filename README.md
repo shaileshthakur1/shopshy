@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # demo:
 Landing Page:
 
-![image](https://github.com/user-attachments/assets/4e9f0db9-fb23-47ec-b7c3-9a83607f08da)
+![image](https://github.com/user-attachments/assets/58bf4573-57ff-47ee-9a60-ee06e398312f)
 
 Collections:
 
