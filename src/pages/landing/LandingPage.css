@@ -28,7 +28,9 @@
 }
 
 .landing-content {
-  margin-top: 50px;
+  margin-top: 2.55%;
+  margin-bottom: auto;
+  justify-content: center;
 }
 
 .explore-button {
